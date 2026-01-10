@@ -42,3 +42,8 @@ div{
         margin: 10px;
         padding: 20px;
     }
+    video{
+        border-radius: 30px;
+        border: 10px solid black;
+        box-shadow: 5px 5px 5px 5px blue;
+    }
