@@ -1,0 +1,13 @@
+table{
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin-left: 30%;
+}
+td{
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;    
+}
+th{
+    border: 2px solid black;
+}
