@@ -54,3 +54,23 @@ div{
     background-size: cover;
     background-attachment: fixed;
 } */
+nav > ul > li{
+    display: inline;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+nav li .dropdown{
+    display: none;
+    position: absolute;
+    background-color: lightyellow;
+    padding: 10px;
+}
+nav li:hover .dropdown{
+    display: block;
+}

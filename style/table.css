@@ -8,7 +8,7 @@ td, th{
     padding: 10px 20px;
     text-align: center;    
 }
-nav > ul > li{
+nav > ul >li{
     display: inline;
     text-decoration: none;
 }
