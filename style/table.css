@@ -18,12 +18,15 @@ li > a{
     font-size: x-large;
 }
 nav{
-    background-color: bisque;
+    background-color: white;
     padding-bottom: 0.5px;
     padding-top: 0.5px;
     border-radius: 10px;
     margin-left: 20px;
     margin-right: 30px;
+}
+nav li:hover{
+    background-color: green;
 }
 .border{
     border: 2px solid black;
@@ -37,4 +40,9 @@ h1{
 }
 thead{
     background-color: rgb(216, 253, 253);
+}
+video{
+    border-radius: 20px;
+    border: 2px solid red;
+    margin-left: 25%;
 }
