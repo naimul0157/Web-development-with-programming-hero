@@ -26,7 +26,7 @@ nav{
     margin-right: 30px;
 }
 nav li:hover{
-    background-color: green;
+    background-color: rgb(223, 236, 247);
 }
 .border{
     border: 2px solid black;
